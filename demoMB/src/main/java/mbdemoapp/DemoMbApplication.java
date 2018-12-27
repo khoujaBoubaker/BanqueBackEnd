@@ -32,6 +32,7 @@ public class DemoMbApplication implements CommandLineRunner {
 
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(DemoMbApplication.class, args);
 	}
 	
